@@ -1,5 +1,0 @@
-ALTER TABLE tbProduto ADD PRIMARY KEY (produto);
-
-ALTER TABLE tbCliente ADD PRIMARY KEY (CPF);
-
-ALTER TABLE tbVendedores ADD PRIMARY KEY (matricula);
